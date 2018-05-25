@@ -1,4 +1,4 @@
-##My exercise repository
+## My exercise repository
 
 Things I should learn next:
 - Improve my skills with the unix environment.
